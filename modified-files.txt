@@ -1,0 +1,18 @@
+This file contains a list of files that Ito the original Numix Solarized theme.
+
+Numix Solarized Dark
+├── gtk-2.0
+│   └── gtkrc
+├── gtk-3.0
+│   ├── gtk.css
+│   └── gtk-dark.css
+├── metacity-1
+│   ├── metacity-theme-2.xml (not tested)
+│   └── metacity-theme-3.xml (not tested)
+└── xfwm4
+    └── themerc (not tested)
+
+
+
+
+
